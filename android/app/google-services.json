@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "291942102435",
+    "firebase_url": "https://messaging-test-fa27e.firebaseio.com",
+    "project_id": "messaging-test-fa27e",
+    "storage_bucket": "messaging-test-fa27e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291942102435:android:c22c89c2a4164eb04c9616",
+        "android_client_info": {
+          "package_name": "easyapproach.com.messaging_tut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291942102435-1aobi9n2pb0ntdikfa608q2e6b0ns1v1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDgk4fyliqbsmnUabR3iclImK94PQ1Xpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291942102435-1aobi9n2pb0ntdikfa608q2e6b0ns1v1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
